@@ -1,0 +1,7 @@
+.h_and_f {
+    display: flex;
+    flex-direction: row;
+    flex-wrap: wrap;
+    border: black;
+}
+
